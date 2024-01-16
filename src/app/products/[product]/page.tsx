@@ -16,9 +16,9 @@ export default async function Product({
 return(
 <>
 
-<h3>Identification</h3>
+<h3>ID of product</h3>
  <p>{res.id}</p>
- <h3>Title</h3>
+ <h3>Title of produrct</h3>
  <p>{res.title}</p>
  <h3>Body</h3>
  <p>{res.body}</p>
